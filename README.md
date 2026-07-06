@@ -11,6 +11,17 @@
   <img src="https://img.shields.io/badge/MCMC-Gibbs%20%2B%20MHwG-2A9D8F?style=for-the-badge" />
 </p>
 
+### Author
+
+<h3 align="center" style="color:#7B2CBF; font-size:32px; margin-bottom:6px;">
+  Tathastu Ghosh
+</h3>
+
+<p align="center">
+  <em>M.Sc. in Statistics</em><br>
+  Department of Statistics, University of Calcutta
+</p>
+
 </div>
 
 ---
@@ -48,10 +59,7 @@ Extending-the-idea-of-Bayesian-Grouped-Regression-under-Logistic-Setup/
 ├── Code files/
 │   ├── BGHS implementation
 │   ├── GRASP implementation
-│   └── GIGG implementation
-│
-├── Tuning of proposal distribution under MHwG/
-│   └── Proposal tuning routines for MHwG steps
+│   ├── GIGG implementation
 │
 ├── Trace plots and ACF plots/
 │   └── MCMC diagnostic scripts / outputs
@@ -139,14 +147,6 @@ It is intended to provide:
 * the main sampler implementations for **BGHS**, **GRASP**, and **GIGG**,
 * supporting code for **proposal tuning**,
 * and **diagnostic tools** for posterior simulation assessment.
-
----
-
-## Author
-
-**Tathastu Ghosh**
-Master’s Student in Statistics
-**Department of Statistics, University of Calcutta**
 
 ---
 
